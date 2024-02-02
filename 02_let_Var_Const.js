@@ -30,3 +30,19 @@ console.log(data);
 const name = "Prakash";
 // name = "Prasanna";
 console.log(name);
+
+// using var
+var value = "some value";
+value = "some other value";
+
+// using let
+let name1 = "Madhu";
+name1 = "Kanna";
+
+// using const(CONSTANT) - can't re-asign
+const lastName = "Prakash";
+lastName = "sowmya";
+
+console.log(value);
+console.log(name);
+console.log(lastName);
